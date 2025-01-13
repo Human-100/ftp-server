@@ -1,5 +1,5 @@
 # FTP Server
-This Project is a Linux based FTP Server created using `vsftpd` (Very Secure FTP Daemon)
+This Project is a Linux based FTP Server I created using `vsftpd` (Very Secure FTP Daemon).
 This repo contains an automation script, that i have compiled for an easier installation. You can further customize the Server by through editing the vsftpd.conf cofig files. 
 
 Now if you want to manually set everything up
