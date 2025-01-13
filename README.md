@@ -105,7 +105,7 @@ Here is what I did.
  	```
 	As i have already shown in My Configuration.
 
-12. Now use an FTP client with the server_ip, user_name and password and enjoy.
+12. Now use an FTP client with the server_ip, user_name and password you created and enjoy.
 
 ;)
 
